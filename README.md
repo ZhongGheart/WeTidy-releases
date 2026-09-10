@@ -6,7 +6,7 @@
 
 面向 macOS 的微信、企业微信与本地文件整理工具。
 
-[官网](https://shituapp.com/wetidy/) · [Gitee 主下载](https://gitee.com/yangjin-at/WeTidy-releases/releases/download/v0.1.0-2/WeTidy-0.1.0-2.dmg) · [GitHub 镜像](https://github.com/ZhongGheart/WeTidy-releases/releases/download/v0.1.0-2/WeTidy-0.1.0-2.dmg)
+[官网](https://shituapp.com/wetidy/) · [Gitee 主下载](https://gitee.com/yangjin-at/WeTidy-releases/releases/download/v0.1.0-3/WeTidy-0.1.0-3.dmg) · [GitHub 镜像](https://github.com/ZhongGheart/WeTidy-releases/releases/download/v0.1.0-3/WeTidy-0.1.0-3.dmg)
 
 </div>
 
@@ -28,30 +28,30 @@ WeTidy（微整理）是一款面向 Mac 的本地文件整理工具。它帮助
 
 ## 下载
 
-当前公开测试版：**WeTidy 0.1.0（Build 2）**，适用于 macOS 13 及以上，包含 Apple Silicon 与 Intel 通用版本。
+当前公开测试版：**WeTidy 0.1.0（Build 3）**，适用于 macOS 13 及以上，包含 Apple Silicon 与 Intel 通用版本。
 
 | 来源 | 地址 |
 | --- | --- |
 | 官网 | <https://shituapp.com/wetidy/> |
-| Gitee 主下载 | <https://gitee.com/yangjin-at/WeTidy-releases/releases/download/v0.1.0-2/WeTidy-0.1.0-2.dmg> |
-| GitHub 镜像 | <https://github.com/ZhongGheart/WeTidy-releases/releases/download/v0.1.0-2/WeTidy-0.1.0-2.dmg> |
+| Gitee 主下载 | <https://gitee.com/yangjin-at/WeTidy-releases/releases/download/v0.1.0-3/WeTidy-0.1.0-3.dmg> |
+| GitHub 镜像 | <https://github.com/ZhongGheart/WeTidy-releases/releases/download/v0.1.0-3/WeTidy-0.1.0-3.dmg> |
 
 安装包已完成 Developer ID 签名、Apple 公证与 DMG stapling。
 
 ```text
 SHA-256
-6094c707e3eee073b7f428bd640437e049f3c9db500a58a7d459916fb4db979a
+c2d0b772bb5a86898c7c517340d87874dd87ce6aba439d3c3ee9e31fd3ae950d
 ```
 
 校验命令：
 
 ```bash
-shasum -a 256 WeTidy-0.1.0-2.dmg
+shasum -a 256 WeTidy-0.1.0-3.dmg
 ```
 
 ## 安装
 
-1. 下载 `WeTidy-0.1.0-2.dmg`。
+1. 下载 `WeTidy-0.1.0-3.dmg`。
 2. 打开 DMG，将 `WeTidy.app` 拖入“应用程序”。
 3. 首次启动时，按 App 内提示授予文件访问权限。
 4. 选择需要整理的微信、企业微信或普通目录，开始更新索引。
