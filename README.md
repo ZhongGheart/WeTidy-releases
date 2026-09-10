@@ -6,7 +6,7 @@
 
 面向 macOS 的微信、企业微信与本地文件整理工具。
 
-[官网](https://shituapp.com/wetidy/) · [Gitee 主下载](https://gitee.com/yangjin-at/WeTidy-releases/releases/download/v0.1.0-4/WeTidy-0.1.0-4.dmg) · [GitHub 镜像](https://github.com/ZhongGheart/WeTidy-releases/releases/download/v0.1.0-4/WeTidy-0.1.0-4.dmg)
+[官网](https://shituapp.com/wetidy/) · [Gitee 主下载](https://shituapp.com/wetidy-pay-api/client/downloads/gitee/0.1.0-4) · [GitHub 镜像](https://shituapp.com/wetidy-pay-api/client/downloads/github/0.1.0-4)
 
 </div>
 
@@ -33,8 +33,8 @@ WeTidy（微整理）是一款面向 Mac 的本地文件整理工具。它帮助
 | 来源 | 地址 |
 | --- | --- |
 | 官网 | <https://shituapp.com/wetidy/> |
-| Gitee 主下载 | <https://gitee.com/yangjin-at/WeTidy-releases/releases/download/v0.1.0-4/WeTidy-0.1.0-4.dmg> |
-| GitHub 镜像 | <https://github.com/ZhongGheart/WeTidy-releases/releases/download/v0.1.0-4/WeTidy-0.1.0-4.dmg> |
+| Gitee 主下载 | <https://shituapp.com/wetidy-pay-api/client/downloads/gitee/0.1.0-4> |
+| GitHub 镜像 | <https://shituapp.com/wetidy-pay-api/client/downloads/github/0.1.0-4> |
 
 安装包已完成 Developer ID 签名、Apple 公证与 DMG stapling。
 
