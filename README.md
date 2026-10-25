@@ -90,7 +90,7 @@ WeTidy 是独立开发工具，与微信、企业微信及其所属公司无隶�
 
 上海中小微企业补贴申报提醒：每天 08:10 自动扫描 9 个政府官网，筛成 3 分钟日报，只推能申报的，带截止日和官方原文。
 
-- 免费领《2026 上海中小企业补贴清单》：<https://shituapp.com/dot/calendar.html>
-- 免费试读 7 天 / 订阅：<https://shituapp.com/dot/>
+- 免费领《2026 上海中小企业补贴清单》：<https://shituapp.com/dot/calendar.html?src=wetidy>
+- 免费试读 7 天 / 订阅：<https://shituapp.com/dot/?src=wetidy>
 
 与 WeTidy 独立运营，互不影响。
